@@ -22,8 +22,8 @@ python 01_basics/variables.py
 \`\`\`
 
 ## 🗺️ Roadmap
-- [x] Basics
-- [x] OOP
+- [ ] Basics
+- [ ] OOP
 - [ ] DSA
 - [ ] Projects
 
