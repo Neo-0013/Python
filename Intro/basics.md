@@ -1,4 +1,5 @@
-**Introduction**
+**PYTHON INTRODUCTION**
+
 This file is a concise, practical Python basics guide you can keep in your repo as basics.md. It covers the essential syntax and concepts every beginner should know, with clear examples and small exercises you can copy and run. Use this as the foundation for your documentation and expand each section into its own file later.
 
 Setup and First Program
