@@ -1,8 +1,10 @@
 # 🐍 Python — Learning Python from Scratch
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+![Commits](https://img.shields.io/github/commit-activity/m/Neo-0013/Python)
+![Last Commit](https://img.shields.io/github/last-commit/Neo-0013/Python)
 
 ## 📖 About
 A structured, hands-on Python learning repository — from absolute basics to projects.
