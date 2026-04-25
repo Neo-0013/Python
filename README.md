@@ -1,6 +1,6 @@
 # 🐍 Python — Learning Python from Scratch
-![CI](https://github.com/Neo-0013/Python/actions/workflows/python-ci.yml/badge.svg)
 
+![CI](https://github.com/Neo-0013/Python/actions/workflows/python-ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -8,30 +8,37 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Neo-0013/Python)
 
 ## 📖 About
+
 A structured, hands-on Python learning repository — from absolute basics to projects.
 
 ## 📚 Table of Contents
-- [01 - Basics](./01_basics/)
-- [02 - OOP](./02_oop/)
-- [03 - Data Structures](./03_data_structures/)
-- [04 - DSA](./04_dsa/)
-- [05 - Projects](./07_projects/)
+
+- [Intro/Basics](./Intro/Basics/)
+- [OOPs](./OOPs/)
+- [DSA](./DSA/)
+- [Exercises](./Exercises/)
+- [Projects](./projects/)
 
 ## 🚀 Getting Started
-\`\`\`bash
+
+```bash
 git clone https://github.com/Neo-0013/Python.git
 cd Python
-python 01_basics/variables.py
-\`\`\`
+python Intro/Basics/var.py
+```
 
 ## 🗺️ Roadmap
-- [ ] Basics
-- [ ] OOP
-- [ ] DSA
-- [ ] Projects
+
+- [x] Basics — variables, loops, functions, conditionals
+- [x] OOP — classes, inheritance, decorators
+- [ ] DSA — sorting, searching, linked lists
+- [ ] Advanced Python — file handling, modules, exceptions
+- [ ] Projects — real-world mini projects
 
 ## 🤝 Contributing
+
 See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 📄 License
+
 MIT — see [LICENSE](./LICENSE)
