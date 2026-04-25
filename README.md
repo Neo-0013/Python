@@ -1,4 +1,5 @@
 # 🐍 Python — Learning Python from Scratch
+![CI](https://github.com/Neo-0013/Python/actions/workflows/python-ci.yml/badge.svg)
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
