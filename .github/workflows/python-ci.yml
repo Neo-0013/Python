@@ -1,1 +1,24 @@
+name: Python CI
 
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    name: Check Python syntax
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Check syntax on all Python files
+        run: |
+          find . -name "*.py" -not -path "./.git/*" | while read file; do
+            echo "Checking: $file"
+            python -m py_compile "$file"
+          done
+          echo "All files passed syntax check!"
