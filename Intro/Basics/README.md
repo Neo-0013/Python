@@ -1,4 +1,4 @@
-# 🐍 Python Basics — For Everyone (Even Biology Students!)
+# 🐍 Python Basics — For Everyone
 
 > **No programming experience needed.** If you've ever written a lab report, used Excel, or followed a recipe — you already think like a programmer. This guide proves it.
 
